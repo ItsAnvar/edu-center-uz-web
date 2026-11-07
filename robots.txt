@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itsanvar.github.io/edu-center-uz-web/sitemap.xml
