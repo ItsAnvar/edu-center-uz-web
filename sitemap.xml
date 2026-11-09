@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://eduhub24.uz/</loc></url>
-  <url><loc>https://eduhub24.uz/markazlar</loc></url>
-  <url><loc>https://eduhub24.uz/fanlar</loc></url>
-  <url><loc>https://eduhub24.uz/markazlar/progres</loc></url>
-  <url><loc>https://eduhub24.uz/markazlar/indivit</loc></url>
-  <url><loc>https://eduhub24.uz/markazlar/asl-talim</loc></url>
-  <url><loc>https://eduhub24.uz/markazlar/koinot-ziyo</loc></url>
+  <url><loc>https://eduhub24.uz/markazlar/</loc></url>
+  <url><loc>https://eduhub24.uz/fanlar/</loc></url>
+  <url><loc>https://eduhub24.uz/markazlar/progres/</loc></url>
+  <url><loc>https://eduhub24.uz/markazlar/indivit/</loc></url>
+  <url><loc>https://eduhub24.uz/markazlar/asl-talim/</loc></url>
+  <url><loc>https://eduhub24.uz/markazlar/koinot-ziyo/</loc></url>
 </urlset>
